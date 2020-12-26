@@ -1,4 +1,4 @@
-#Made by John-Trunix, free to use!
+#Made by JohnTrunix, free to use!
 #Add this file to crontab for periodic execution
 
 import os
